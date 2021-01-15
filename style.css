@@ -1,0 +1,164 @@
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+h6 p{
+    color: #3E3E3E;
+}
+
+.section-1{
+    background-color: #FFFBF0;
+    height: 750px;
+}
+
+.nav-left-side img{    /**nav image style-left side**/
+    width: 300px;
+    margin-top: 30px;
+
+}
+
+.ul-left{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+.nav-right-side a{
+    color: black;
+}
+
+.upper{
+    margin-top: 20px;
+}
+
+.woman-part{
+    color: #363958;
+
+}
+
+#text-style-1{
+    color: #FABE4C;
+    font-size: 65px;
+}
+
+#text-style-2{
+    color: #363958;
+    font-size: 65px;
+}
+.img-size{
+    width: 500px;
+}
+
+.btn-image{
+    height: 30px;   /**setting button image size**/
+}
+
+.button{
+    background-color: #98B134;
+    padding: 18px 36px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+.class-col{
+    margin-top: 70px;
+}
+
+.img-bottom{
+    width: 600px;
+}
+
+.woman-part-img-1{
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
+.woman-part-img-2{
+    width: 345px;
+    margin-left: 35px;
+    padding: 15px 50px;
+    margin-top: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
+.woman-part-img-3{
+    width: 365px;
+    margin-left: 25px;
+    padding: 15px 50px;
+    margin-top: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.card-border{
+    border: 0;
+}
+
+.button-cart{
+    background-color: #98B134;
+    padding: 18px 36px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+.card-footer-cus{
+    background-color: white;
+    border: 0;
+}
+
+
+.man-part{
+    color: #363958;
+
+}
+
+.man-part-img-1{
+    width: 350px;
+    margin-left: 33px;
+    padding: 15px 50px;
+    margin-top: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
+.man-part-img-2{
+    width: 370px;
+    height: 360px;
+    margin-left: 23px;
+    padding: 15px 50px;
+    margin-top: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
+.man-part-img-3{
+    width: 350px;
+    height: 360px;
+    margin-left: 34px;
+    padding: 15px 50px;
+    margin-top: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
+
+.cart-img{
+    height: 90px;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+
+.section-margin{
+    margin-top: 150px;
+}
+
+#Subscribe{
+    background-color: #FFFBF0;
+}
